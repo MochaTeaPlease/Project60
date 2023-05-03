@@ -1,0 +1,15 @@
+.line{
+    height: 6px;
+    width: 200px;
+    background-color: rgb(185, 203, 220);
+    margin: auto;
+}
+body{
+    text-align: center;
+}
+img{
+    transition: transform .2s;
+}
+img:hover{
+    transform: scale(0.5)
+}
